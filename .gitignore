@@ -36,3 +36,4 @@ blaze-engine/node_modules/
 *.bak
 *.swp
 *.tmp
+.npmrc
